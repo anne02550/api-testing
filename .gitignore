@@ -38,5 +38,10 @@ build/
 ### Mac OS ###
 .DS_Store
 
-### email + password ###
+
+# Secrets -
 src/test/resources/secrets/
+
+# Generated folders - no need to commit these
+allure-results/
+allure-report/
